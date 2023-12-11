@@ -1,7 +1,10 @@
-import Image from 'next/image'
+import React from 'react';
+import Home from '@/app/pages/Home';
 
-export default function Home() {
+export default function App() {
   return (
-    <h1>Bem Vindo a Landing Page</h1>
+    <>
+      <Home />
+    </>
   )
 }

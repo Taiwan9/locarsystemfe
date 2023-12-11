@@ -1,0 +1,6 @@
+.hero {
+  width: 100%;
+  height: 240px;
+  background: url('../images//car-10\ 1.svg') cover;
+  justify-content: center;
+}
